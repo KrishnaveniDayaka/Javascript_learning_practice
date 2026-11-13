@@ -14,4 +14,17 @@ default:
     console.log("default");
         
 }
+
+console.log("End of switch ")
+
+let n=10;
+let n2="10";
+if(n===n2)
+    console.log("true"); //=assign the value == compare the value only,=== compare the value and datatype
+else if(n==n2)
+    console.log('true')
+else
+console.log("fasle");
+
+
  
