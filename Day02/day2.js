@@ -7,3 +7,9 @@ else if(n==n2)
     console.log('true')
 else
 console.log("fasle");
+
+
+//types of operators those 
+//1 arthimetic 
+//2 logical
+//3 
